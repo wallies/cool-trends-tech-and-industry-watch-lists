@@ -21,3 +21,7 @@
 - Uno - Mortgage Brokers
 - Xinja
 - Atom
+
+## Notes
+- http://bankinnovation.net/2016/07/10-fintech-startups-you-probably-havent-heard-of-until-now/
+- http://www.neurensic.com/ - AI trading, compliance and banking
