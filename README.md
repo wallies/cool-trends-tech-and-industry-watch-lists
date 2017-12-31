@@ -1,4 +1,4 @@
-# tech-watch
+# Cool Trends, Tech, Companies and Industry things to monitor
 List of tech / companies in different areas I'm watching or have liked the look of or just started to curate a list of
 
 Over the last few years I have began lists of tech, industries, companies and things I want to watch or keep an eye on.
