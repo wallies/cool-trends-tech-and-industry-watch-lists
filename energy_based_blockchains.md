@@ -8,10 +8,7 @@
 - TransactiveGrid - US p2p
 - Enerchain (PONTON) -  https://enerchain.ponton.de/
 - Grid+
-
-Australia
-- Power Ledger - trade in solar
-
+- Power Ledger (Australia) - trade in solar
 - Solvenia
 - SunContract
 
