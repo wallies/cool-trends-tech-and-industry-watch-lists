@@ -30,9 +30,10 @@ Agilio CX
 - DCOS Navstar - orchestrates virtual overlay networks using VXLAN 
 
 ## Other network projects
-Plumgrid io visor
-Fd.io
-DPDK
+- Plumgrid io visor
+- Fd.io
+- DPDK
+- P4
 
 ## Notes
 Keep track of mutli network spec proposal as part of kubernetes sig networking
