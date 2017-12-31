@@ -21,14 +21,14 @@ https://github.com/gites/awesome-vault-tools
 - https://www.digitalocean.com/company/blog/vault-and-kubernetes/ - Vault as a CA
 
 ## Vault UI
-https://github.com/djenriquez/vault-ui
-https://github.com/Caiyeon/goldfish
+- https://github.com/djenriquez/vault-ui
+- https://github.com/Caiyeon/goldfish
 
 ## Kubernetes Vault
 - https://github.com/kelseyhightower/vault-controller
 - https://github.com/ainola/kubernetes-vault
 
 ## Other Projects and Docs
-https://github.com/docker/global-hack-day-3/tree/master/foresti - Docker Token Auth Using Vault
-https://github.com/docker-library/docs/tree/master/vault
-https://www.vaultproject.io/docs/concepts/ha.html
+- https://github.com/docker/global-hack-day-3/tree/master/foresti - Docker Token Auth Using Vault
+- https://github.com/docker-library/docs/tree/master/vault
+- https://www.vaultproject.io/docs/concepts/ha.html
