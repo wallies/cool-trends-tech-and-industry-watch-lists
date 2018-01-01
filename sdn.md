@@ -11,6 +11,8 @@
 ## Monitoring
 - Inband network telelmetry - https://github.com/p4lang/p4factory/tree/master/apps/int
 - https://github.com/vapor-ware/OpenDCRE
+- Forwardnetworks
+- [Barefoot Deep Insight](https://barefootnetworks.com/products/brief-deep-insight/)
 
 ## Automation
 - NAPALM - network automation https://github.com/napalm-automation/napalm
@@ -48,6 +50,7 @@
 - Cumulus
 - PicOS
 - SONIC - https://github.com/Azure/SONiC
+- NoviWare
 
 ## SDN Whitebox
 - Versa
