@@ -1,6 +1,6 @@
 # Financial Based Blockchains
 
-- Hello.bloom - Credit December 1st token sale
+- Hello.bloom - Credit 
 - https://chain.com/ - blockchain infrastructure
 - Abra - remittance
 - Centra.tech - Visa Debit Card & ebay like store
