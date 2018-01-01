@@ -1,7 +1,12 @@
 # Blockchain Companies
 
+## Alternate Blockchains
+- Qtum (https://qtum.org/en/) - Uses core of bitcoin with ethereum smart contracts on top
+- Cardano (https://www.cardanohub.org) - Smart contract based blockchain
+
 ## Economy
 - http://peerism.org/
+- Gems (https://gems.org/) - Decentralised mechanical turk. Microtasks
 
 ## IoT
 - filament.com - blockchain driven LoRa-mesh
@@ -43,7 +48,6 @@
 - Traity - https://traity.com/
 
 ## Healthcare
-- Gem
 - Tierion
 - HealBond
 - Hashed Healthcare
@@ -76,6 +80,7 @@
 - Privatix - P2P VPN & CDN
 - Orchid - more robust network of nodes than Tor Project network, as it will pay people for sharing unused bandwidth
 - Blockstack - decentralised private internet
+- Golem (https://golem.network/) - decentralized supercomputer that anyone can access. Made up of the combined power of user's machines
 
 ## Bots & AI
 - Seed token - bot interactions can be authenticated, managed, and remunerated in order to establish an interface to AI that is a democratic, trusted, and fair (exchanging value equally).
