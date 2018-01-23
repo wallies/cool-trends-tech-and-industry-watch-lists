@@ -1,4 +1,4 @@
-# VPN Providers
+# VPN Providers / Implementations
 
 - https://whispersystems.org/
 - Cryptostorm - Anonymous 
@@ -7,6 +7,7 @@
 - Kube OpenVPN
 - Streisand 
 - ZerotierOne
+- [Vtrunkd](https://github.com/VrayoSystems/vtrunkd) - universal network link bonding and multichannel VPN
 
 - Astril
 - EarthVPN
