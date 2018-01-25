@@ -27,3 +27,6 @@
 
 ## Smoke & Co Detectors
 - Nest Protect
+
+## Airconditioner
+- Sensibo
