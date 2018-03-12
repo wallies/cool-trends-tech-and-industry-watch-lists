@@ -28,6 +28,14 @@ Agilio CX
 - BaGPipe BGP CNI - Can do MPLS. cni plugin for bagpipe bgp  https://github.com/murat1985/bagpipe-cni
 - Trireme - Zero trust network (Aporeto) https://github.com/aporeto-inc/trireme-kubernetes
 - DCOS Navstar - orchestrates virtual overlay networks using VXLAN 
+- Kubernetes RDMA(remote direct memory access) device plugin https://github.com/hustcat/k8s-rdma-device-plugin
+
+## Virtual routers and switches
+- Snaproute flexswitch
+- Azure SONiC P4 Switch & router
+- BaGPipe BGP
+- Canal (calico + flannel)
+- Snabb 
 
 ## Other network projects
 - Plumgrid io visor
