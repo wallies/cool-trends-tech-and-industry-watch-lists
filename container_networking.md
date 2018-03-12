@@ -36,6 +36,8 @@ Agilio CX
 - BaGPipe BGP
 - Canal (calico + flannel)
 - Snabb 
+- OpenContrail vrouter
+- Contiv
 
 ## Other network projects
 - Plumgrid io visor
