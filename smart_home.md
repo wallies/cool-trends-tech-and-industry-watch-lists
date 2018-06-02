@@ -33,6 +33,9 @@
 ## Smoke & Co Detectors
 - Nest Protect
 
+## Airconditioner
+- Sensibo
+
 ## Miscellaneous
 - [Smart Mirror](https://www.lifehacker.com.au/2016/01/build-a-magic-mirror-with-a-raspberry-pi-and-an-old-monitor/)
 - [Magic Mirror](https://github.com/MicrosoftEdge/magic-mirror-demo)

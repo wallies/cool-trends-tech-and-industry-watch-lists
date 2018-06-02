@@ -1,4 +1,4 @@
-# VPN Providers
+# VPN Providers / Implementations
 
 - https://whispersystems.org/
 - Cryptostorm - Anonymous 
@@ -8,6 +8,7 @@
 - Streisand 
 - ZerotierOne
 - [GoldenFrog](https://www.goldenfrog.com/vyprvpn/gaming-vpn)
+- [Vtrunkd](https://github.com/VrayoSystems/vtrunkd) - universal network link bonding and multichannel VPN
 
 - Astril
 - EarthVPN
