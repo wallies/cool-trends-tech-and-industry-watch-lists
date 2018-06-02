@@ -2,17 +2,17 @@
 
 - https://whispersystems.org/
 - Cryptostorm - Anonymous 
-- https://mysterium.network/
+- [Mysterium](https://mysterium.network)
 - Betternet
 - Kube OpenVPN
 - Streisand 
 - ZerotierOne
+- [GoldenFrog](https://www.goldenfrog.com/vyprvpn/gaming-vpn)
 
 - Astril
 - EarthVPN
 - ExpressVPN
 - GFwVPN 
-- GoldenFrog
 - Hide.me
 - IBVPN 
 - IPVanish
