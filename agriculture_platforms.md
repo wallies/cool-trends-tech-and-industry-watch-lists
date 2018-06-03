@@ -13,3 +13,7 @@
 - FarmIQ
 - Smart yields 
 - Esri ArcGIS - GIS tooling
+
+
+## Technologies
+- [Roots Sustainable Agricultural Technologies](http://rootssat.com)

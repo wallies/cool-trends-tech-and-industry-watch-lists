@@ -16,6 +16,7 @@
 - Nokia Multi-access Edge Computing
 - GE Digital introduced: Predix Edge
 - DartPoints
+- [Saguna](https://www.saguna.net)
 
 ## Other Device Edge
 - Veniam - Turns vehicles into Wi-Fi hotspots and builds vehicular networks that expand wireless coverage and collect terabytes of actionable data. 
