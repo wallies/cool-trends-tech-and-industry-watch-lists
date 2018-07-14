@@ -19,6 +19,10 @@
 ## Switch Resellers
 EdgeCore networks - provider of wedge switches
 
+## Others
+- Marvell
+
 ## Notes
 - Amazon bought Annapurna Labs
 - Microsoft uses FPGA-based adapters on azure
+- [Marvell](marvell.com) bought Cavium
