@@ -14,8 +14,10 @@
 ## App Management
 - [Eliot](https://github.com/ernoaapa/eliot)
 - [Kaa](https://www.kaaproject.org/)
+- [Balena](https://www.balena.io/)
 
 ## Other (need to categorise)
+- Ericcson DCP
 - IoTium 
 - Pubnub – Pubnub has been around for a while, originally focusing on RTC on the web. Recently they’ve expanded their offerings to include targeting IoT.
 - SmartLiving – SmartLiving seems to be targeting the mid-way point between using something very simple like IFTTT, and full blown programming enviroments.
