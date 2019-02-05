@@ -11,10 +11,11 @@
 - Azure IoT Edge
 - Google Cloud IoT Core
 
-## App Management
+## Messaging & App Management
 - [Eliot](https://github.com/ernoaapa/eliot)
 - [Kaa](https://www.kaaproject.org/)
 - [Balena](https://www.balena.io/)
+- [MainFlux](https://www.mainflux.com/)
 
 ## Other (need to categorise)
 - Ericcson DCP
