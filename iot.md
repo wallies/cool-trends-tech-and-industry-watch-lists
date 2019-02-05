@@ -17,6 +17,9 @@
 - [Balena](https://www.balena.io/)
 - [MainFlux](https://www.mainflux.com/)
 
+## SIM Management
+- [Hologram](https://hologram.io/)
+
 ## Other (need to categorise)
 - Ericcson DCP
 - IoTium 
