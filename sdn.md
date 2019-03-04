@@ -43,7 +43,8 @@
 ## Virtual switches
 - Open vSwitch
 - LINC switch
-- SONiC P4 switch
+- [SONiC P4 switch](https://github.com/Azure/SONiC/wiki/SONiC-P4-Software-Switch)
+- [Snaab](https://github.com/snabbco/snabb)
 
 ## Network OS
 - Snaproute FlexSwitch
