@@ -20,6 +20,11 @@
 ## SIM Management
 - [Hologram](https://hologram.io/)
 
+## IoT Gateways
+- [Things Gateway by Mozilla](https://github.com/mozilla-iot/gateway)
+- [ThingsBoard](https://thingsboard.io/docs/iot-gateway/)
+- [IoT Edge](https://github.com/azure/iotedge)
+
 ## Other (need to categorise)
 - Ericcson DCP
 - IoTium 
