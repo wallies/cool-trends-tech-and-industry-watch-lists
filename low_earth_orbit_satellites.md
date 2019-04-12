@@ -1,17 +1,17 @@
 # Low Earth Orbit
-Spacex starlinx
-Oneweb
-Leosat 
-Telesat
-Amazon 
-rocketlab
-spaceflight industries
-aireon
-ispace china
-vector launch
-hypersat
-ICEYE
-World View
+- SpaceX starlink
+- Oneweb
+- Leosat 
+- Telesat
+- Amazon 
+- Rocketlab
+- Spaceflight Industries
+- Aireon
+- iSpace China
+- Vector launch
+- Hypersat
+- ICEYE
+- World View
 
 https://techcrunch.com/2019/04/06/space-tech-rockets-higher/
 
