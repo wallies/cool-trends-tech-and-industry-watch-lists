@@ -77,8 +77,8 @@
 - etherparty.io
 
 ## P2P Networks
-- Gladius - Decentralized CDN and DDoS Protection on the Blockchain
-- FogCoin.io 
+- [Gladius](https://gladius.io/) - Decentralized CDN and DDoS Protection on the Blockchain
+- [FogCoin.io](https://fogcoin.io/) - Rent out processing power and get paid
 - Privatix - P2P VPN & CDN
 - Orchid - more robust network of nodes than Tor Project network, as it will pay people for sharing unused bandwidth
 - Blockstack - decentralised private internet
