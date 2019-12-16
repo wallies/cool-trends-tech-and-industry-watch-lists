@@ -21,6 +21,10 @@
 - Uno - Mortgage Brokers
 - Xinja
 - Atom
+- Up bank
+- Volt
+- Revolut
+- 84600
 
 ## Notes
 - http://bankinnovation.net/2016/07/10-fintech-startups-you-probably-havent-heard-of-until-now/
