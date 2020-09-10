@@ -11,10 +11,13 @@
 - Daimler
 - Delphi Automotive (GE)
 - Navya - driverless shuttles
+- Nissan
 - Yandex
 - Zoox Inc.
 - Renault
 - [Aurora](https://aurora.tech)
+- H2X (Hydrogen based)
+- Lucid Motors
  
 
 ## Components
