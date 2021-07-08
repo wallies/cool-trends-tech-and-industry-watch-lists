@@ -8,35 +8,48 @@ Taiga https://taiga.io/
 
 
 ### Billing
-Open billing
+Open billing\
 Kbill
 
 ### SCM
-Gitea
-Gitlab
-Gogs
+Gitea\
+Gitlab\
+Gogs\
+&nbsp;
 
-Tooljet instead of retool
-Nocodb or baserow instead of airtable 
-Rudderstack instead of segment 
-Papercups instead of intercom
-Calendso instead of calendly
-Send for sharing files
-Rudderstack instead of segment
-Posthog instead of fullstory
-Cowlytics - stripe insights 
+Tooljet instead of retool\
+Nocodb or baserow instead of airtable\
+Rudderstack instead of segment \
+Papercups instead of intercom\
+Calendso instead of calendly\
+Send for sharing files\
+Rudderstack instead of segment\
+Posthog instead of fullstory\
+Cowlytics - stripe insights \
 
-Airbyte
-Odoo crm
-Erpnext 
-Postal or haka for mail 
+Airbyte\
+Odoo crm\
+Erpnext \
+Postal or haka for mail \ 
 
-Opencspm
-Clamav
-Keepass
-Nebula, Trasa.io 
+Opencspm \
+Clamav \
+Keepass \
 
-Mattermost, tulip, rocketchat
-Matamo, fathom
-Flipt
+### Zero Trust Network
+Nebula
+Trasa.io 
+
+### Chat
+Mattermost\
+Tulip \
+rocketchat \
+&nbsp;
+
+Matamo\
+Fathom
+
+&nbsp;
+
+Flipt \
 Mainflux iot
