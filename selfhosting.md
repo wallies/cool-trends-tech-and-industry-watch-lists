@@ -3,15 +3,15 @@
 When all else fails or you dont like sharing your data, host it all yourself
 
 
-## Project Management 
+### Project Management 
 Taiga https://taiga.io/
 
 
-## Billing
+### Billing
 Open billing
 Kbill
 
-## SCM
+### SCM
 Gitea
 Gitlab
 Gogs
