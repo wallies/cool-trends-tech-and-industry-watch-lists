@@ -3,7 +3,8 @@
 When all else fails or you dont like sharing your data, host it all yourself
 
 
-## Project Management - Taiga https://taiga.io/
+## Project Management 
+Taiga https://taiga.io/
 
 
 ## Billing
