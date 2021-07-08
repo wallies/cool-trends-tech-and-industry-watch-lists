@@ -4,7 +4,10 @@
 - [Panoply](panoply.io)
 - [Rivery](rivery.ios)
 - [Grow](gogrow.com)
+- [DOMO]
 - [Tray](tray.io)
+
+https://www.hightouch.io/
 
 https://enso.org/
 
@@ -16,6 +19,9 @@ https://cube.dev/
 
 - Apache Airflow
 - Luigi
+https://github.com/transferwise/pipelinewise
+
+
 
 https://medium.com/selectstar/the-evolution-of-data-catalogs-the-data-discovery-platform-1627772ca760
 
