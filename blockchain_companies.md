@@ -98,5 +98,9 @@
 - Waltonchain
 - Chia Network - blockchain based on proofs of space and time to make a cryptocurrency which is less wasteful, more decentralized, and more secure.
 
+
+## Web3 Landscape
+https://pbs.twimg.com/media/FMcy9sjWQAkCliQ?format=jpg&name=large
+
 Note: Just cos something is on this list, does not mean you should invest in it, this is not investment advice, this is more of a list to watch,
 as they have interesting use cases in how they are applying blockchain technology.

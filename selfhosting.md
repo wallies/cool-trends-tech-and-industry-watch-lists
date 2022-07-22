@@ -1,6 +1,8 @@
 # Self Hosting
 
 When all else fails or you dont like sharing your data, host it all yourself
+https://github.com/RunaCapital/awesome-oss-alternatives
+https://miro.medium.com/max/1400/1*KHSGayWkAoeHng3GGO20JA.png
 
 ### Project Management 
 * [Taiga](https://taiga.io/)
@@ -54,3 +56,5 @@ When all else fails or you dont like sharing your data, host it all yourself
 | Opencspm | ??? |
 | Clamav | ??? |
 | Keepass | Lastpass | 
+
+

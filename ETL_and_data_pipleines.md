@@ -37,18 +37,18 @@ https://medium.com/denodo-data-virtualization/data-virtualization-the-key-to-wea
 https://engineering.linkedin.com/blog/2020/datahub-popular-metadata-architectures-explained
 
 ### Crawl Based
-Amundsen
-Airbnb Data Portal
-Shopify Artifact
-Spotify Lexikon
+- Amundsen
+- Airbnb Data Portal
+- Shopify Artifact
+- Spotify Lexikon
 
 ### Push Based + API
-Alation
-Collibra
-Marquez
+- Alation
+- Collibra
+- Marquez
 
 ### Pushed Based + API + Stream
-Linkedin Datahub
-Apache Atlas
-Egeria
-Uber Databook
+- Linkedin Datahub
+- Apache Atlas
+- Egeria
+- Uber Databook

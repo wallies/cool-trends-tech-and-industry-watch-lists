@@ -14,5 +14,8 @@ https://www.amdocs.com/sites/default/files/inline-images/nfv-partner-ecosystem.p
 - Marketing
 http://cdn.chiefmartec.com/wp-content/uploads/2016/03/marketing_technology_landscape_2016_3000px.jpg
 
+- Web3
+https://pbs.twimg.com/media/FMcy9sjWQAkCliQ?format=jpg&name=large
+
 ## Other
 https://www.vbprofiles.com/ls
